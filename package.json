@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "nodemon --exec babel-node ./api/index.js",
+    "dev:auth": "nodemon --exec babel-node authMS/index.js",
     "test": "jest",
     "eslint": "eslint .",
     "eslint:fix": "eslint . --fix"
