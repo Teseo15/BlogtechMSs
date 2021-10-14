@@ -1,5 +1,3 @@
-import { Model } from "mongoose";
-
 /**
  * Se encarga de lista en base al model
  * @param {Model} model
